@@ -1,0 +1,7 @@
+C:\Users\AZMINUR RAHMAN\Desktop\Registration Helper for BSc CSE (AIUB)\Registration Helper for BSc CSE (AIUB)\bin\Debug\Registration Helper for BSc CSE (AIUB).exe.config
+C:\Users\AZMINUR RAHMAN\Desktop\Registration Helper for BSc CSE (AIUB)\Registration Helper for BSc CSE (AIUB)\bin\Debug\Registration Helper for BSc CSE (AIUB).exe
+C:\Users\AZMINUR RAHMAN\Desktop\Registration Helper for BSc CSE (AIUB)\Registration Helper for BSc CSE (AIUB)\bin\Debug\Registration Helper for BSc CSE (AIUB).pdb
+C:\Users\AZMINUR RAHMAN\Desktop\Registration Helper for BSc CSE (AIUB)\Registration Helper for BSc CSE (AIUB)\obj\Debug\Registration Helper for BSc CSE (AIUB).csproj.AssemblyReference.cache
+C:\Users\AZMINUR RAHMAN\Desktop\Registration Helper for BSc CSE (AIUB)\Registration Helper for BSc CSE (AIUB)\obj\Debug\Registration Helper for BSc CSE (AIUB).csproj.CoreCompileInputs.cache
+C:\Users\AZMINUR RAHMAN\Desktop\Registration Helper for BSc CSE (AIUB)\Registration Helper for BSc CSE (AIUB)\obj\Debug\Registration Helper for BSc CSE (AIUB).exe
+C:\Users\AZMINUR RAHMAN\Desktop\Registration Helper for BSc CSE (AIUB)\Registration Helper for BSc CSE (AIUB)\obj\Debug\Registration Helper for BSc CSE (AIUB).pdb
